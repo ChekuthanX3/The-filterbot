@@ -38,8 +38,8 @@ Add me as admin in your group and start filtering :)
 """
 
 AboutTxT = """
-⭕️ My Name : pottan</b>
-⭕️ Developers : @Lion_098765 
+⭕️ My Name : @Kannapitherider_bot
+⭕️ Developers : <b>@Lion_098765;</b>
 ⭕️ Upgrader : @Lion_098765
 ⭕️ Language : Python3
 
