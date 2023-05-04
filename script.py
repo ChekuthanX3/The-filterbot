@@ -38,9 +38,9 @@ Add me as admin in your group and start filtering :)
 """
 
 AboutTxT = """
-⭕️ My Name : @Kannapitherider_bot
+⭕️ My Name : @CHEKUTHAN1234_BOT<\b>
 ⭕️ Developers : <b>@Lion_098765;</b>
 ⭕️ Upgrader : @Lion_098765
 ⭕️ Language : Python3
-
+       {mention} enthalla 
 """
